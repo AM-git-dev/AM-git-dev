@@ -8,7 +8,7 @@
 - 🔭 Je travaille actuellement sur **Un projet de WebShop (https://github.com/AM-git-dev/WebShop-project)**
 - 🌱 J’apprends actuellement **Vue.js & Nuxt.js**
 - 👯 Je cherche à collaborer sur **des projets Open Source**
-- 💬 N'hésite pas a me contacter pour tout question**
+- 💬 N'hésite pas a me contacter pour toutes question
 - 🕸️ *Le code, c’est un super-pouvoir ! Mais un grand pouvoir implique de grandes responsabilités* 🕷️
 
 ---
