@@ -1,10 +1,11 @@
 # 👋 Hello, moi c'est Maxime ! 🚀
 
-[![GitHub followers](https://img.shields.io/github/followers/TonPseudo?style=social)](https://github.com/TonPseudo)
-[![GitHub stars](https://img.shields.io/github/stars/TonPseudo?style=social)](https://github.com/TonPseudo)
+[![GitHub followers](https://img.shields.io/github/followers/TonPseudo?style=social)](https://github.com/AM-git-dev)
+[![GitHub stars](https://img.shields.io/github/stars/TonPseudo?style=social)](https://github.com/AM-git-dev)
 
 ### 💡 À propos de moi :
-- 🔭 Je travaille sur **Un projet de WebShop (https://github.com/AM-git-dev/WebShop-project)**
+
+- 🔭 Je travaille actuellement sur **Un projet de WebShop (https://github.com/AM-git-dev/WebShop-project)**
 - 🌱 J’apprends actuellement **Vue.js & Nuxt.js**
 - 👯 Je cherche à collaborer sur **des projets Open Source**
 - 💬 N'hésite pas a me contacter pour tout question**
