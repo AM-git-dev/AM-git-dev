@@ -25,13 +25,13 @@
 ---
 
 ### 📈 Statistiques GitHub :
-![Mes stats](https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=radical)
-![Mes langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudo&layout=compact&theme=radical)
+![Mes stats](https://github-readme-stats.vercel.app/api?username=AM-git-dev&show_icons=true&theme=radical)
+![Mes langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=AM-git-dev&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Me contacter :
-📧 **Email :** pro.maximeandre@gmail.com](mailto:pro.maximeandre@gmail.com)  
+📧 **Email :** pro.maximeandre@gmail.com  
 💼 **LinkedIn :** [linkedin.com/in/maxime-andré-dev](www.linkedin.com/in/maxime-andré-dev)
 
 ---
