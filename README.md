@@ -5,7 +5,7 @@
 
 ### 💡 À propos de moi :
 
-- 🔭 Je travaille actuellement sur **Un projet de WebShop (https://github.com/AM-git-dev/WebShop-project)**
+- 🔭 Je travaille actuellement sur un projet d'**une appli companion pour améliorer l'experience de jeu de JDR papier (https://github.com/AM-git-dev/D-D-Mobile-Companion)**
 - 🌱 J’apprends actuellement **Vue.js & Nuxt.js**
 - 👯 Je cherche à collaborer sur **des projets Open Source**
 - 💬 N'hésite pas a me contacter pour toutes question
